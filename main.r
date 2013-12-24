@@ -1,5 +1,5 @@
 #mainファイル
-setwd("/Users/sasMBP/Documents/Tobii_Japan")
+setwd("/Users/sasMBP/Documents/Tobii_Japan/Tobii.Danborad")
 
 #データの読み込み
 source("dataread.r")
